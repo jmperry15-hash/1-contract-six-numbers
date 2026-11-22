@@ -1,0 +1,6 @@
+{
+  "name": "Ledgerline — SaaS FP&A Contract Modeler",
+  "description": "Interactive SaaS FP&A contract lifecycle modeler for Bookings, ARR, Billings, Cash Collections, GAAP Revenue, and Deferred Revenue with audit tie-out and AI contract analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
